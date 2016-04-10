@@ -34,6 +34,18 @@
 				<string>`</string>
 				<string>`</string>
 			</array>
+			<array>
+				<string>&#96;</string>
+				<string>&#96;</string>
+			</array>
+			<array>
+				<string>_</string>
+				<string>_</string>
+			</array>
+			<array>
+				<string>*</string>
+				<string>*</string>
+			</array>
 		</array>
 	</dict>
 	<key>uuid</key>
